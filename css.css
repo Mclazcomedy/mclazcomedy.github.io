@@ -1,0 +1,21 @@
+h1,h2 {
+text-align: center;
+display: grid;
+}
+
+p {
+    display: inline-block;
+    font-size: 32px;
+    transform: scale(.5.1);
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+li a {
+     display: block;
+     width: 60px;
+}
+
